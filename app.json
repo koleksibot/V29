@@ -1,0 +1,11 @@
+{
+  "name": "WALL-E",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://github.com/FrazBotz/WALL-E/",
+  "logo": "https://i.imgur.com/aXe22jG.jpeg",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "whatsapp-bot"
+  ]
+}
